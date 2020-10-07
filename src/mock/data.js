@@ -13,25 +13,36 @@ export const heroData = {
   name: 'Hemanth Reddy',
   // subtitle: 'Computer Vision Engineer and Python Programmer'
   // subtitle: 'Python Programmer with expertise in Data Science technologies',
-  subtitle: 'I help machines See, Comprehend and Act',
+  subtitle: 'I help Machines See, Comprehend and Act',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: '',
-  paragraphOne: "I'm a Deep learning practitioner with experience as \
-        python programmer helping Mercedes Benz R&D India automate their IT \
-        infrastructure using Python and Shell scripting.\
-        I also have experience as System administrator.",
-  
-  paragraphTwo: "A firm believer that AI would be instrumental for our future, \
-      I think Multitask Deep networks are the way to go.\
-      I would love to discuss/assist with defining/solving Computer Vision or NLP problem using deep learning.",
 
-  paragraphThree: "From creating syntetic data of more than a million images to designing a pipeline that works with some hundreds of datapoints...\
-  I've worked on variety of projects, some of which can be seen below. I've including live demos for you to try out as well. \
-  Do check out my resume on the way if you are interested",
+  paragraphOne: "'More than 85% of cyberspace data is in the form of pixels' - Cisco Report\
+  'Almost 50% of the brain is involved in Vision' \
+  Two mutually exclusive statements but it summarizes what I'm working on. I work with providing and analysing vision for a machine. \
+  Vision - the cornerstone of our existence, some studies even say its the major factor for evolution.!, \
+  that is what researchers wish to bring to machines, to enable them to assist us better. I work with businesses to \
+  help them use the technology and increase their productivity", 
+
+  paragraphTwo: "",
+  paragraphThree: "",
+
+  // paragraphOne: "I'm a Deep learning practitioner with experience as \
+  //       python programmer helping Mercedes Benz R&D India automate their IT \
+  //       infrastructure using Python and Shell scripting.\
+  //       I also have experience as System administrator.",
+  
+  // paragraphTwo: "A firm believer that AI would be instrumental for our future, \
+  //     I think Multitask Deep networks are the way to go.\
+  //     I would love to discuss/assist with defining/solving Computer Vision or NLP problem using deep learning.",
+
+  // paragraphThree: "From creating syntetic data of more than a million images to designing a pipeline that works with some hundreds of datapoints...\
+  // I've worked on variety of projects, some of which can be seen below. I've including live demos for you to try out as well. \
+  // Do check out my resume on the way if you are interested",
 
 
   // paragraphOne: "I'm currently working as python programmer. As Infoscion, for past few years, \
